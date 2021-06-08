@@ -90,3 +90,10 @@ section{
   height: 100vh;
   transition: all .5s;
 }
+  div.intro {
+    text-align: right;
+    color: rgb(235, 222, 222);
+    padding-top: 30px;
+    padding-right: 70px;
+    /* position: fixed; */
+  } 
