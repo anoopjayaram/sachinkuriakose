@@ -51,8 +51,9 @@ ul {
     list-style: none;
 }
 .footer-social-icons {
-
+    padding-top: 17%;
     padding-left: 75%;
+    /* padding-right: 5%; */
     width: 350px; 
     }
 .social-icon {
